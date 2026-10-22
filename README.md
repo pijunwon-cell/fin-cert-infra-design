@@ -152,3 +152,9 @@ Public → DMZ → Application → Data의 단방향 진입 구조이고, 구역
 ## 11. 사용 기술·개념
 
 PKI, CRL/OCSP, WAF, API Gateway, Bastion, VPN, MFA/RBAC, OAuth 2.0/JWT, TLS/mTLS, TDE, KMS/HSM, SIEM, OWASP Top 10
+
+## 문서
+
+- [원](docs/준)
+- [인](docs/융)
+- [젝](docs/로)
