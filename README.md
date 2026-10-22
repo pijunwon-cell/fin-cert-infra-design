@@ -155,6 +155,4 @@ PKI, CRL/OCSP, WAF, API Gateway, Bastion, VPN, MFA/RBAC, OAuth 2.0/JWT, TLS/mTLS
 
 ## 문서
 
-- [원](docs/준)
-- [인](docs/융)
-- [젝](docs/로)
+- [프로젝트 보고서](docs/금융인증서_인프라_보안_설계_보고서.pdf)
